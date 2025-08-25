@@ -1,4 +1,4 @@
-# Fine-Tuning a Faster R-CNN for litter detection Pipeline
+# Fine-Tuning a Faster R-CNN for litter detection 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
